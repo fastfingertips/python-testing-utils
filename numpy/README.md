@@ -6,7 +6,7 @@ This project includes examples demonstrating the usage of NumPy for scientific c
 - [zeros_creation.py](zeros_creation.py): This file showcases the usage of numpy.zeros method to create arrays filled with zeros.
 - [zeros_matrix.py](zeros_matrix.py): This file demonstrates creating a zeros matrix based on user input for dimensions.
 - [arange_creation.py](arange_creation.py): This file showcases the usage of numpy.arange method to return evenly spaced values within a given interval.
-- [numpy_max.py](numpy_max.py): This file demonstrates the usage of numpy.max method to find the maximum value of an array along different axes with conditions and initial values.
+- [numpy_max.py](numpy_max.py): Finding the maximum value of an array using numpy.max method.
 - [numpy_min.py](numpy_min.py): Finding the minimum value of an array using numpy.min method.
 
 ## Installation
