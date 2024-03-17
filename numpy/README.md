@@ -12,6 +12,7 @@ This project includes examples demonstrating the usage of NumPy for scientific c
 - [numpy_min.py](numpy_min.py): Finding the minimum value of an array using numpy.min method.
 - [numpy_mean.py](numpy_mean.py): Computing the arithmetic mean along different axes with conditions and initial values.
 - [numpy_append.py](numpy_append.py): This file demonstrates appending values to an array using the numpy.append method.
+- [numpy_put.py](numpy_put.py): This file demonstrates replacing specified elements of an array with given values using the numpy.put method.
 
 ## Installation
 
