@@ -14,6 +14,7 @@ This project includes examples demonstrating the usage of NumPy for scientific c
 - [numpy_append.py](numpy_append.py): This file demonstrates appending values to an array using the numpy.append method.
 - [numpy_put.py](numpy_put.py): This file demonstrates replacing specified elements of an array with given values using the numpy.put method.
 - [numpy_full.py](numpy_full.py): This file demonstrates creating arrays filled with a constant value using the numpy.full method.
+- [numpy_asarray.py](numpy_asarray.py): This file demonstrates converting input data to an array using the numpy.asarray method.
 
 ## Installation
 
